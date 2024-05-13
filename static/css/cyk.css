@@ -1,0 +1,11 @@
+.my_columns {
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.my_column {
+    width: 60%;
+    margin-right: 5%;
+    margin-left: 5%;
+}

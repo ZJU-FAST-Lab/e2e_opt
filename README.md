@@ -1,2 +1,3 @@
-# e2e_opt
-Learning to Plan Maneuverable and Agile Flight Trajectory with Optimization Embedded Networks
+# Learning to Plan Maneuverable and Agile Flight trajectory with Optimization Embedded Networks
+
+The project page is [here](https://zju-fast-lab.github.io/e2e_opt/).
